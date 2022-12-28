@@ -1,0 +1,10 @@
+engine                  = 
+instance_class          = 
+allocated_storage       = 
+name                    = 
+username                = 
+password                = 
+vpc_security_group_ids  =
+subnet_ids              =   
+publicly_accessible     = 
+skip_final_snapshot     = 
